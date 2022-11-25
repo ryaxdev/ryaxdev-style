@@ -1,6 +1,6 @@
 # 💊Styles from ryaxdev
 
-Styles Button
+## Styles Button
 
 ```css
 button {
